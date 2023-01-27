@@ -1,2 +1,2 @@
-# Dise-oDesarrollo.
+# DiseñoDesarrollo.
 Repositorio para el curso Diseño y Desarrollo
